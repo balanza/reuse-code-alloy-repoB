@@ -1,0 +1,5 @@
+<Alloy>
+	<View class="container">
+		<Label>I'm the view you developed specifically for this application!</Label>
+	</View>
+</Alloy>
