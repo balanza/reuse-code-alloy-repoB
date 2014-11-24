@@ -1,0 +1,4 @@
+[submodule "submodules/repoA"]
+	path = submodules/repoA
+	url = git@github.com:balanza/reuse-code-alloy-repoA.git
+	branch = master

@@ -1,0 +1,21 @@
+{
+  "name": "QuickIcons",
+  "version": "0.0.0",
+  "description": "gioco QuickIcons",
+  "main": "Gruntfile.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "grunt": "~0.4.5"
+  },
+  "devDependencies": {
+    "grunt-git": "https://github.com/balanza/grunt-git/tarball/master",
+    "underscore": "~1.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
